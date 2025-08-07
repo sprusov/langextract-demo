@@ -8,4 +8,4 @@ RUN pip install --no-cache-dir .
 
 RUN pip install --no-cache-dir pytest ruff
 
-CMD ["python", "-m", "langextract_demo.extractor"]
+CMD ["python", "-m", "langextract_demo"]
