@@ -1,0 +1,13 @@
+Invoice #INV-10123
+Date: August 5, 2025
+
+Bill To:
+Acme Corp
+1234 Market St, San Francisco, CA
+
+Items:
+- Website design: $3000
+- Hosting (12 months): $240
+
+Total Due: $3240
+Due Date: August 20, 2025

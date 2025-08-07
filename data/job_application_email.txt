@@ -1,0 +1,8 @@
+Hi HR team,
+
+I am Jane Doe, a senior software engineer with 7 years of experience in backend development using Python and Java. I am interested in the role at your company. My expected salary is $130,000. I can join within 30 days.
+
+You can contact me at jane.doe@gmail.com or 555-123-4567.
+
+Thanks,
+Jane

@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  langextract:
+    build: .
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+    tty: true
