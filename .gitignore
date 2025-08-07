@@ -1,0 +1,80 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv/
+venv/
+ENV/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+*.manifest
+*.spec
+
+# === macOS ===
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# === Virtual environments ===
+.python-version
+
+# === Logs and databases ===
+*.log
+*.sqlite3
+*.db
+
+# === Test artifacts ===
+.coverage
+.tox/
+.nox/
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# === MyPy, Pyright, etc. ===
+.mypy_cache/
+.pytype/
+.dmypy.json
+.pyre/
+
+# === IDEs and Editors ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === Docker ===
+*.pid
+*.pid.lock
+
+# === Jupyter Notebooks ===
+.ipynb_checkpoints
+
+# === OS-specific ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === Git ===
+.git/
+.gitignore
+
+# === Env files ===
+.env
+.env.*
+*.secret
+secrets.yml
+secrets.json
